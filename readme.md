@@ -14,7 +14,6 @@ Generate natural language descriptions for videos using advanced Vision-Language
 1. Clone this repository:
     ```
     git clone https://github.com/AdityaM2205/vid-to-text-caption.git
-    cd video-captioning
     ```
 
 2. Install Python dependencies:
